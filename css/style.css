@@ -32,7 +32,7 @@ ul {
 
 
 /* start navbar */
-.nav-bar {
+.nav-bar{
     font-size: 20px;
     color: white;
     position: fixed;
@@ -44,24 +44,24 @@ ul {
     
 }
 
-.nav-bar .brand {
+.nav-bar .brand{
     width: 40%;
     text-transform: uppercase;
     margin: 0.83em 0;
 }
 
-.nav-bar .brand span {
+.nav-bar .brand span{
     text-transform: lowercase;
     color: #1abc9c;
     border-bottom: 2px solid #1abc9c;
 }
 
-.nav-bar .links {
+.nav-bar .links{
     width: 60%;
     margin-top: 20px;
 }
 
-.nav-bar .links li {
+.nav-bar .links li{
     display: inline-block;
     padding: 10px 0;
     margin: 0 10px;
@@ -70,7 +70,7 @@ ul {
     font-weight: bold;
 }
 
-.nav-bar .links li a {
+.nav-bar .links li a{
     color: #fff;
     text-decoration: none;
 }
@@ -86,7 +86,7 @@ ul {
     cursor: pointer;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1199px){
     .nav-bar .d-flexr {
         -webkit-box-orient: vertical !important;
         -webkit-box-direction: normal !important;
